@@ -1,0 +1,64 @@
+{
+  "nfts": [
+    {
+      "dna": "fc7b336429c061ed1c387164f14d96059f4d9d4370ea830a5decda93f86dd901",
+      "name": "Digi Caps Raider #1",
+      "description": "Lead by the infamous Jax Oxide, the Digi Caps Raiders are on the hunt for bottle caps all over The Dreadlands. Make sure to head over to the Digi Caps Discord and join in the Tribe Wars for a chance to win rewards! There are 6,666 Raiders in this collection.",
+      "image": "https://bafybeiatxfzws6hkt5kyiwmkxhkue2jgekoc6vmsygt54233cpt3lpccyy.ipfs.nftstorage.link/ipfs/bafybeiatxfzws6hkt5kyiwmkxhkue2jgekoc6vmsygt54233cpt3lpccyy/1.png",
+      "imageHash": "1fc6e39434fa171c0a636d5ffcd5538ad8e4089d9aa5a31bf7f7e5eded08ffe3",
+      "edition": 1,
+      "date": 1670771352111,
+      "attributes": [
+        {
+          "trait_type": "Rank",
+          "value": "Unranked"
+        },
+        {
+          "trait_type": "Battle Count",
+          "value": "0"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Gas Snakes Pattern"
+        },
+        {
+          "trait_type": "Back Accessories",
+          "value": "Guitar"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Pale"
+        },
+        {
+          "trait_type": "Markings",
+          "value": "Jailhouse"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Wedding Day"
+        },
+        {
+          "trait_type": "Hats & Hair",
+          "value": "Black Locks"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Serious"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Lip Bite"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Guitar Strap"
+        },
+        {
+          "trait_type": "Tribe",
+          "value": "Gas Snakes"
+        }
+      ],
+      "compiler": "HashLips Art Engine - NFTChef fork"
+    }    }
+  ]
+}
